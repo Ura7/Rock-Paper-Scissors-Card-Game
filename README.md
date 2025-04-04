@@ -1,4 +1,5 @@
-This project has been developed using JAVA. 
+This project has been developed using JAVA. Each card has its own durability points and experience points for leveling up.
+For example, when a rock card encounters a scissors card, the rock reduces the scissors card’s durability. The rock card earns experience points, and the amount of damage dealt is added to the winning player’s score.
 
 Player vs Computer:
 

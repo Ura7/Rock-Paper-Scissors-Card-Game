@@ -13,4 +13,8 @@ Gameplay Phase
 </p>
 
 Computer vs Computer;
+<p style="display: inline;">
+<img src="https://github.com/user-attachments/assets/76955494-2d63-4a2e-becd-a942d5b76db7" width="600"/>
+</p>
 
+Adding Cards in the Deck
